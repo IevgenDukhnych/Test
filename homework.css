@@ -1,8 +1,119 @@
-h1{padding: auto;}
-.first-block{
-    border: red 5px solid;
-    width: 965px;
-    height: 450px;
-    box-sizing: border-box;
-    margin: 0 auto;
-    }
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.content-wrapper {
+  width: 880px;
+  margin: 0 auto;
+ 
+}
+.header-content-wrapper {
+  background-image: url(./img/1569408953_pontiac-gto-1966-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.cards-list {
+  list-style: none;
+}
+a {
+  color: red;
+  margin: 50px;
+}
+
+li {
+  width: 30%;
+ 
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+}
+h1 {
+  text-align: center;
+  margin: 10px;
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+.main-info-wrapper {
+  background-color: whitesmoke;
+  height: 200px;
+  margin: 0px auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.list-wrapper {
+  background-color: gray;
+}
+
+.contact-info {
+  width: 880px;
+}
+.content-handle {
+  height: 180px;
+  margin: 0px auto;
+  padding: 10px;
+  background-color: whitesmoke;
+  text-align: center;
+}
+.blue-block {
+  background-color: blue;
+  display: inline-block;
+  width: 50%;
+  height: 312px;
+  text-align: center;
+}
+.gray-block {
+  background-color: gray;
+  display: inline-block;
+  width: 50%;
+  height: 312px;
+  text-align: center;
+}
+
+.content-wrapper {
+  margin: 0px auto;
+  padding: 10px;
+ 
+ 
+}
+.content-footer {
+  margin:  auto;
+  padding: 10px;
+  border: 2px solid;
+  width: 880px;
+  background-color: black;
+}
+.content-footer-left {
+  display: inline-block;
+  width: 50%;
+  height: 96px;
+  text-align: center;
+  text-decoration-color: white;
+}
+.right {
+  display: inline-block;
+  width: 50%;
+  height: 96px;
+  text-align: center;
+}
+h5 {
+  color: white;
+
+
+a {
+  color: rgb (172, 197, 31);
+}
+
+
